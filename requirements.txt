@@ -1,0 +1,16 @@
+Django
+django-filter
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+Pillow
+psycopg2-binary
+PyJWT
+python-decouple
+gunicorn
+django-cors-headers
+whitenoise
+dj-database-url
+aiogram
+qrcode
+django-allauth
